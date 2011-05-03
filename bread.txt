@@ -1,5 +1,10 @@
 1 water
+<<<<<<< .merge_file_a08524
 2 flour
 1/2 yeast
+=======
+1 flour
+1 yeast
+>>>>>>> .merge_file_a10184
 1 butter
 1 panetone formula
