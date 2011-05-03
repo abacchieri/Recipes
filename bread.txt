@@ -1,4 +1,4 @@
 1 water
-1 flour
-1 yeast
+2 flour
+1/2 yeast
 1 butter
