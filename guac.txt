@@ -9,6 +9,7 @@ Guacamole 2.0 is going to be awesome
 * 1 grain table salt, split in half
 * A dash of freshly grated black pepper
 * 1/2 ripe tomato, seeds and pulp removed, chopped
+8 Add some test thing
 
 Smoosh all ingredients together.
 Serve with potato chips and loads of tequila.
