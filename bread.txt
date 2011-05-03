@@ -1,3 +1,4 @@
 1 water
 1 flour
-1 weist
+1 yeast
+1 butter
